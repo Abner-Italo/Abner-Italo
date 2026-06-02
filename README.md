@@ -1,4 +1,5 @@
-# #Abner Italo
-## - Engenheiro da Computação - Cesupa - Período 1
-Usuário de Tecnologia 
+# APRESENTAÇÃO
+## Estudante de Engenharia da Computação do Centro Universitário do Estado do Pará (CESUPA)
+## Período 1
+
 
