@@ -1,5 +1,5 @@
 
-# Olá! 👋 Seja bem-vindo ao meu GitHub!
+# Abner Italo
 
 🎓 Sou estudante de **Engenharia da Computação**, atualmente no **2º período**.
 
@@ -24,9 +24,9 @@
 
 Estou focado em aprender, praticar e transformar meus conhecimentos em projetos reais.
 
-## 📫 Vamos nos conectar?
+## 📫 Muito Obrigado.
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 🚀
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀
 
 ---
 ⭐ *Sempre aprendendo, sempre evoluindo.*
